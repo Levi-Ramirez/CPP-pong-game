@@ -1,0 +1,12 @@
+﻿  win32_platform.cpp
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\win32_platform.cpp(27,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\renderer.cpp(32,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\renderer.cpp(45,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\renderer.cpp(46,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\renderer.cpp(47,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\renderer.cpp(48,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\game.cpp(23,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\game.cpp(100,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\game.cpp(109,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\MyFirstCppGame\win32_platform.cpp(98,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  MyFirstCppGame.vcxproj -> C:\Users\Levi Ramirez\Desktop\VS projects\MyFirstCppGame\Debug\MyFirstCppGame.exe

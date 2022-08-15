@@ -1,0 +1,168 @@
+﻿  win32_platform.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(47,11): error C3646: 'nLength': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(47,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(48,12): error C3646: 'lpSecurityDescriptor': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(48,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(49,10): error C3646: 'bInheritHandle': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(49,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(53,15): error C3646: 'Internal': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(53,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(54,15): error C3646: 'InternalHigh': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(54,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(57,19): error C3646: 'Offset': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(57,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(58,19): error C3646: 'OffsetHigh': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(58,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(60,15): error C3646: 'Pointer': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(60,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(63,13): error C3646: 'hEvent': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(63,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(67,15): error C3646: 'lpCompletionKey': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(67,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(69,15): error C3646: 'Internal': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(69,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(70,11): error C3646: 'dwNumberOfBytesTransferred': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(70,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(81,11): error C3646: 'dwLowDateTime': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(81,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(82,11): error C3646: 'dwHighDateTime': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(82,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(91,10): error C3646: 'wYear': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(91,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(92,10): error C3646: 'wMonth': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(92,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(93,10): error C3646: 'wDayOfWeek': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(93,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(94,10): error C3646: 'wDay': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(94,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(95,10): error C3646: 'wHour': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(95,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(96,10): error C3646: 'wMinute': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(96,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(97,10): error C3646: 'wSecond': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(97,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(98,10): error C3646: 'wMilliseconds': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(98,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(103,11): error C3646: 'dwFileAttributes': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(103,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(107,11): error C3646: 'nFileSizeHigh': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(107,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(108,11): error C3646: 'nFileSizeLow': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(108,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(109,11): error C3646: 'dwReserved0': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(109,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(110,11): error C3646: 'dwReserved1': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(110,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(111,15): error C3646: 'CHAR': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(111,22): error C3646: 'cFileName': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(111,31): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(111,43): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(112,15): error C3646: 'CHAR': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(112,22): error C3646: 'cAlternateFileName': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(112,40): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(112,46): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(120,11): error C3646: 'dwFileAttributes': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(120,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(124,11): error C3646: 'nFileSizeHigh': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(124,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(125,11): error C3646: 'nFileSizeLow': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(125,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(126,11): error C3646: 'dwReserved0': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(126,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(127,11): error C3646: 'dwReserved1': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(127,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(128,15): error C3646: 'WCHAR': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(128,22): error C3646: 'cFileName': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(128,31): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(128,43): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(129,15): error C3646: 'WCHAR': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(129,22): error C3646: 'cAlternateFileName': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(129,40): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(129,46): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(219,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(219,30): error C2146: syntax error: missing ';' before identifier 'CRITICAL_SECTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(220,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(220,31): error C2146: syntax error: missing ';' before identifier 'PCRITICAL_SECTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(223,58): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(223,36): error C2146: syntax error: missing ';' before identifier 'CRITICAL_SECTION_DEBUG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(224,60): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(224,37): error C2146: syntax error: missing ';' before identifier 'PCRITICAL_SECTION_DEBUG'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(229,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(229,2): error C2065: 'WINAPI': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(229,10): error C2065: 'LPOVERLAPPED_COMPLETION_ROUTINE': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(229,41): error C2513: 'int': no variable declared before '='
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(229,42): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(230,13): error C2146: syntax error: missing ')' before identifier 'DWORD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(230,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(230,13): error C2146: syntax error: missing ';' before identifier 'DWORD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(233,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(239,11): error C3646: 'lpData': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(239,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(240,11): error C3646: 'cbData': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(240,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(241,10): error C3646: 'cbOverhead': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(241,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(242,10): error C3646: 'iRegionIndex': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(242,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(243,10): error C3646: 'wFlags': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(243,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(246,20): error C3646: 'hMem': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(246,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(247,19): error C3646: 'dwReserved': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(247,29): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(247,34): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(250,19): error C3646: 'dwCommittedSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(250,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(251,19): error C3646: 'dwUnCommittedSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(251,36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(252,20): error C3646: 'lpFirstBlock': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(252,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(253,20): error C3646: 'lpLastBlock': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(253,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(266,11): error C3646: 'Version': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(266,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(267,11): error C3646: 'Flags': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(267,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(270,21): error C3646: 'LocalizedReasonModule': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(270,42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(271,19): error C3646: 'LocalizedReasonId': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(271,36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(272,19): error C3646: 'ReasonStringCount': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(272,36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(273,20): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(273,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(273,34): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(277,16): error C3646: 'SimpleReasonString': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(277,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(294,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(294,16): error C2065: 'WINAPI': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(294,24): error C2065: 'PTHREAD_START_ROUTINE': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(294,45): error C2513: 'int': no variable declared before '='
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(294,46): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(295,12): error C2146: syntax error: missing ')' before identifier 'lpThreadParameter'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(296,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(295,12): error C2146: syntax error: missing ';' before identifier 'lpThreadParameter'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(296,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(297,53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(297,31): error C2146: syntax error: missing ';' before identifier 'LPTHREAD_START_ROUTINE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(299,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(299,24): error C2378: 'LPVOID': redefinition; symbol cannot be overloaded with a typedef
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(295): message : see declaration of 'LPVOID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(299,17): error C2065: 'WINAPI': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(299,25): error C2065: 'PENCLAVE_ROUTINE': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(299,41): error C2513: 'int': no variable declared before '='
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(299,42): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(300,12): error C2146: syntax error: missing ')' before identifier 'lpThreadParameter'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(301,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(300,5): error C2086: 'int LPVOID': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(295): message : see declaration of 'LPVOID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(300,12): error C2146: syntax error: missing ';' before identifier 'lpThreadParameter'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(301,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(302,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(302,26): error C2146: syntax error: missing ';' before identifier 'LPENCLAVE_ROUTINE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(305,22): error C3646: 'ExceptionRecord': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(305,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(310,12): error C3646: 'hThread': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(310,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(311,12): error C3646: 'lpThreadLocalBase': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(311,29): fatal error C1003: error count exceeds 100; stopping compilation
